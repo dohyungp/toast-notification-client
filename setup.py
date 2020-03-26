@@ -1,8 +1,8 @@
 import setuptools
 
 install_requires = [
-    'requests == 2.22.0',
-    'jsonschema == 3.1.1'
+    'requests',
+    'jsonschema'
 ]
 
 
