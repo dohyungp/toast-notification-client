@@ -10,7 +10,7 @@ with open('README.md', 'r') as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name='Toast-Notification-Client',  # Replace with your own username
+    name='toast-notification-client',
     version='0.0.2',
     author='Dohyung Park',
     author_email='dohyung.prk@gmail.com',

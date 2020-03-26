@@ -9,15 +9,15 @@ Toast cloud Notification RESTful API Client for Python User.
 
 ## Install
 
----
+```py
+pip install toast-notification-client
+```
 
 ## Function
-
----
 
 ### Initalize
 
 ```python
-from toast_sms_client import ToastSMS
+from toast import ToastSMS
 tos = ToastSMS("<API-KEY>")
 ```
