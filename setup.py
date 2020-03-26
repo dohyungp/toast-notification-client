@@ -11,7 +11,7 @@ with open('README.md', 'r') as fh:
 
 setuptools.setup(
     name='Toast-Notification-Client',  # Replace with your own username
-    version='0.0.1',
+    version='0.0.2',
     author='Dohyung Park',
     author_email='dohyung.prk@gmail.com',
     description='Toast cloud Notification RESTful API Client for Python User.',
