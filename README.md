@@ -15,9 +15,16 @@ pip install toast-notification-client
 
 ## Function
 
-### Initalize
+### Initialize
 
 ```python
 from toast import ToastSMS
 tos = ToastSMS("<API-KEY>")
 ```
+
+
+### Usage
+
+All parameter is based on a service called NHN Toast SMS API.
+Please Check [NHN Toast Cloud SMS Notification Doc](https://docs.toast.com/ko/Notification/SMS/ko/api-guide/).
+
