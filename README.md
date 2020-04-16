@@ -15,7 +15,7 @@ pip install toast-notification-client
 
 ## Function
 
-### Initalize
+### Initialize
 
 ```python
 from toast import ToastSMS
